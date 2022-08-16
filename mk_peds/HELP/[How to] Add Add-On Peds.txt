@@ -1,0 +1,6 @@
+[How to] Add Add-On Peds
+
+1. Open the Add-On Peds.txt
+2. Add ONE Ped for each line and stick to the template
+3. Save the file
+4. Profit

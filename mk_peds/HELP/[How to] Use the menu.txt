@@ -1,0 +1,6 @@
+[How to] Use the menu
+
+>	To Open the Menu press the 'Del' Button on your Keyboard.
+>	To reload the list while the menu is open press the 'Page Down' Button on your Keyboard.
+
+>>>>Check the '[How to] Add Add-On Peds.txt' to understand how to add Peds in the menu<<<<

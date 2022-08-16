@@ -1,0 +1,9 @@
+[How to] Add Admins
+
+If you use ESMode, continue at Step 4
+
+1. Open the Admins.txt
+2. Add Admins in the given format
+3. Save the Admins.txt
+4. Open the config.lua
+5. Change false to true on Line 24

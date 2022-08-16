@@ -1,0 +1,6 @@
+[How to] Install the resource
+
+1. Extract the content of the Archive into your resource folder
+2. Add 'start AddOnPedSpawnMenu' (without the quotes) to your servers cfg file
+3. Add your Add-On Peds to the Add-On Peds.txt
+4. Profit
